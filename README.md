@@ -23,13 +23,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/idfcLeo/leetcode-prolems/tree/master/0217-contains-duplicate) |
+| [0682-baseball-game](https://github.com/idfcLeo/leetcode-prolems/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/idfcLeo/leetcode-prolems/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/idfcLeo/leetcode-prolems/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/idfcLeo/leetcode-prolems/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/idfcLeo/leetcode-prolems/tree/master/0013-roman-to-integer) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/idfcLeo/leetcode-prolems/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
