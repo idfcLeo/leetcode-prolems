@@ -39,9 +39,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/idfcLeo/leetcode-prolems/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/idfcLeo/leetcode-prolems/tree/master/0682-baseball-game) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/idfcLeo/leetcode-prolems/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/idfcLeo/leetcode-prolems/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/idfcLeo/leetcode-prolems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
