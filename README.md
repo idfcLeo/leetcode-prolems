@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/idfcLeo/leetcode-prolems/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/idfcLeo/leetcode-prolems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/idfcLeo/leetcode-prolems/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/idfcLeo/leetcode-prolems/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/idfcLeo/leetcode-prolems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0219-contains-duplicate-ii) |
 | [0682-baseball-game](https://github.com/idfcLeo/leetcode-prolems/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/idfcLeo/leetcode-prolems/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/idfcLeo/leetcode-prolems/tree/master/0225-implement-stack-using-queues) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
