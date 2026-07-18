@@ -7,7 +7,6 @@ class Solution {
             if(nums[i]>0)pos++;
             if(nums[i]<0)neg++;
         }
-        if(pos>neg)return pos;
-        else return neg;
+        return Math.max(neg,pos);
     }
 }
