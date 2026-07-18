@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0229-majority-element-ii) |
 | [0682-baseball-game](https://github.com/idfcLeo/leetcode-prolems/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/idfcLeo/leetcode-prolems/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/idfcLeo/leetcode-prolems/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0229-majority-element-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/idfcLeo/leetcode-prolems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
