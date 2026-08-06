@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/idfcLeo/leetcode-prolems/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/idfcLeo/leetcode-prolems/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/idfcLeo/leetcode-prolems/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/idfcLeo/leetcode-prolems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0229-majority-element-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/idfcLeo/leetcode-prolems/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/idfcLeo/leetcode-prolems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/idfcLeo/leetcode-prolems/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
