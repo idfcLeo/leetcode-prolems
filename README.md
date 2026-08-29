@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/idfcLeo/leetcode-prolems/tree/master/0455-assign-cookies) |
 | [0682-baseball-game](https://github.com/idfcLeo/leetcode-prolems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/idfcLeo/leetcode-prolems/tree/master/0704-binary-search) |
+| [1480-running-sum-of-1d-array](https://github.com/idfcLeo/leetcode-prolems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/idfcLeo/leetcode-prolems/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/idfcLeo/leetcode-prolems/tree/master/1929-concatenation-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/idfcLeo/leetcode-prolems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/idfcLeo/leetcode-prolems/tree/master/1672-richest-customer-wealth) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/idfcLeo/leetcode-prolems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
