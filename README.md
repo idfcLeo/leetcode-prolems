@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/idfcLeo/leetcode-prolems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/idfcLeo/leetcode-prolems/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/idfcLeo/leetcode-prolems/tree/master/1929-concatenation-of-array) |
+| [2140-solving-questions-with-brainpower](https://github.com/idfcLeo/leetcode-prolems/tree/master/2140-solving-questions-with-brainpower) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/idfcLeo/leetcode-prolems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/idfcLeo/leetcode-prolems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/idfcLeo/leetcode-prolems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2140-solving-questions-with-brainpower](https://github.com/idfcLeo/leetcode-prolems/tree/master/2140-solving-questions-with-brainpower) |
 ## Memoization
 |  |
 | ------- |
