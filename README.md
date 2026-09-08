@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/idfcLeo/leetcode-prolems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/idfcLeo/leetcode-prolems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/idfcLeo/leetcode-prolems/tree/master/0070-climbing-stairs) |
+| [3870-count-commas-in-range](https://github.com/idfcLeo/leetcode-prolems/tree/master/3870-count-commas-in-range) |
 ## Stack
 |  |
 | ------- |
