@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/idfcLeo/leetcode-prolems/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/idfcLeo/leetcode-prolems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/idfcLeo/leetcode-prolems/tree/master/0387-first-unique-character-in-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/idfcLeo/leetcode-prolems/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/idfcLeo/leetcode-prolems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/idfcLeo/leetcode-prolems/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/idfcLeo/leetcode-prolems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/idfcLeo/leetcode-prolems/tree/master/0455-assign-cookies) |
 ## Array
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/idfcLeo/leetcode-prolems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/idfcLeo/leetcode-prolems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/idfcLeo/leetcode-prolems/tree/master/0455-assign-cookies) |
 | [0682-baseball-game](https://github.com/idfcLeo/leetcode-prolems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/idfcLeo/leetcode-prolems/tree/master/0704-binary-search) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/idfcLeo/leetcode-prolems/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/idfcLeo/leetcode-prolems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/idfcLeo/leetcode-prolems/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/idfcLeo/leetcode-prolems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/idfcLeo/leetcode-prolems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/idfcLeo/leetcode-prolems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/idfcLeo/leetcode-prolems/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/idfcLeo/leetcode-prolems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/idfcLeo/leetcode-prolems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
