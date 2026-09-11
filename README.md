@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/idfcLeo/leetcode-prolems/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/idfcLeo/leetcode-prolems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/idfcLeo/leetcode-prolems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/idfcLeo/leetcode-prolems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/idfcLeo/leetcode-prolems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/idfcLeo/leetcode-prolems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0219-contains-duplicate-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/idfcLeo/leetcode-prolems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/idfcLeo/leetcode-prolems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/idfcLeo/leetcode-prolems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/idfcLeo/leetcode-prolems/tree/master/0242-valid-anagram) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/idfcLeo/leetcode-prolems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/idfcLeo/leetcode-prolems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/idfcLeo/leetcode-prolems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/idfcLeo/leetcode-prolems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/idfcLeo/leetcode-prolems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0229-majority-element-ii) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/idfcLeo/leetcode-prolems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0229-majority-element-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/idfcLeo/leetcode-prolems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
@@ -186,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/idfcLeo/leetcode-prolems/tree/master/3483-unique-3-digit-even-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/idfcLeo/leetcode-prolems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/idfcLeo/leetcode-prolems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
