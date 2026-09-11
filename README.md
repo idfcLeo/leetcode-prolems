@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/idfcLeo/leetcode-prolems/tree/master/0242-valid-anagram) |
+| [3483-unique-3-digit-even-numbers](https://github.com/idfcLeo/leetcode-prolems/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/idfcLeo/leetcode-prolems/tree/master/1929-concatenation-of-array) |
 | [2140-solving-questions-with-brainpower](https://github.com/idfcLeo/leetcode-prolems/tree/master/2140-solving-questions-with-brainpower) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/idfcLeo/leetcode-prolems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/idfcLeo/leetcode-prolems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -174,9 +176,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/idfcLeo/leetcode-prolems/tree/master/0203-remove-linked-list-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/idfcLeo/leetcode-prolems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Database
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/idfcLeo/leetcode-prolems/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/idfcLeo/leetcode-prolems/tree/master/0182-duplicate-emails) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/idfcLeo/leetcode-prolems/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
