@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/idfcLeo/leetcode-prolems/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/idfcLeo/leetcode-prolems/tree/master/0387-first-unique-character-in-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/idfcLeo/leetcode-prolems/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/idfcLeo/leetcode-prolems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/idfcLeo/leetcode-prolems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/idfcLeo/leetcode-prolems/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/idfcLeo/leetcode-prolems/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/idfcLeo/leetcode-prolems/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/idfcLeo/leetcode-prolems/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/idfcLeo/leetcode-prolems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/idfcLeo/leetcode-prolems/tree/master/0387-first-unique-character-in-a-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/idfcLeo/leetcode-prolems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
