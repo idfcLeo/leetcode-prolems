@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/idfcLeo/leetcode-prolems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/idfcLeo/leetcode-prolems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/idfcLeo/leetcode-prolems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/idfcLeo/leetcode-prolems/tree/master/0387-first-unique-character-in-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/idfcLeo/leetcode-prolems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/idfcLeo/leetcode-prolems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/idfcLeo/leetcode-prolems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/idfcLeo/leetcode-prolems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/idfcLeo/leetcode-prolems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/idfcLeo/leetcode-prolems/tree/master/0455-assign-cookies) |
 ## Array
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/idfcLeo/leetcode-prolems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/idfcLeo/leetcode-prolems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/idfcLeo/leetcode-prolems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/idfcLeo/leetcode-prolems/tree/master/0455-assign-cookies) |
 | [0682-baseball-game](https://github.com/idfcLeo/leetcode-prolems/tree/master/0682-baseball-game) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/idfcLeo/leetcode-prolems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/idfcLeo/leetcode-prolems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/idfcLeo/leetcode-prolems/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/idfcLeo/leetcode-prolems/tree/master/0268-missing-number) |
 | [3870-count-commas-in-range](https://github.com/idfcLeo/leetcode-prolems/tree/master/3870-count-commas-in-range) |
 ## Stack
 |  |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/idfcLeo/leetcode-prolems/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/idfcLeo/leetcode-prolems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/idfcLeo/leetcode-prolems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/idfcLeo/leetcode-prolems/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/idfcLeo/leetcode-prolems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -161,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/idfcLeo/leetcode-prolems/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/idfcLeo/leetcode-prolems/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
