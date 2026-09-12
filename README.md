@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/idfcLeo/leetcode-prolems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/idfcLeo/leetcode-prolems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/idfcLeo/leetcode-prolems/tree/master/0268-missing-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/idfcLeo/leetcode-prolems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/idfcLeo/leetcode-prolems/tree/master/3870-count-commas-in-range) |
 ## Stack
 |  |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/idfcLeo/leetcode-prolems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0229-majority-element-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/idfcLeo/leetcode-prolems/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
