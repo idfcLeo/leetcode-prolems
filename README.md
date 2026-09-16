@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/idfcLeo/leetcode-prolems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/idfcLeo/leetcode-prolems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/idfcLeo/leetcode-prolems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/idfcLeo/leetcode-prolems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/idfcLeo/leetcode-prolems/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/idfcLeo/leetcode-prolems/tree/master/0645-set-mismatch) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/idfcLeo/leetcode-prolems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/idfcLeo/leetcode-prolems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/idfcLeo/leetcode-prolems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/idfcLeo/leetcode-prolems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/idfcLeo/leetcode-prolems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/idfcLeo/leetcode-prolems/tree/master/0455-assign-cookies) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/idfcLeo/leetcode-prolems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/idfcLeo/leetcode-prolems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/idfcLeo/leetcode-prolems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/idfcLeo/leetcode-prolems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/idfcLeo/leetcode-prolems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/idfcLeo/leetcode-prolems/tree/master/0455-assign-cookies) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/idfcLeo/leetcode-prolems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/idfcLeo/leetcode-prolems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/idfcLeo/leetcode-prolems/tree/master/0387-first-unique-character-in-a-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/idfcLeo/leetcode-prolems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/idfcLeo/leetcode-prolems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/idfcLeo/leetcode-prolems/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -240,4 +245,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/idfcLeo/leetcode-prolems/tree/master/0128-longest-consecutive-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/idfcLeo/leetcode-prolems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/idfcLeo/leetcode-prolems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/idfcLeo/leetcode-prolems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
