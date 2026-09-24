@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/idfcLeo/leetcode-prolems/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0680-valid-palindrome-ii) |
 | [1796-second-largest-digit-in-a-string](https://github.com/idfcLeo/leetcode-prolems/tree/master/1796-second-largest-digit-in-a-string) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/idfcLeo/leetcode-prolems/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Sorting
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/idfcLeo/leetcode-prolems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/idfcLeo/leetcode-prolems/tree/master/0680-valid-palindrome-ii) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/idfcLeo/leetcode-prolems/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## String Matching
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/idfcLeo/leetcode-prolems/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3483-unique-3-digit-even-numbers](https://github.com/idfcLeo/leetcode-prolems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
